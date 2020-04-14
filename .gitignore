@@ -5,6 +5,10 @@ keras_test\.ipynb
 
 \.idea/
 
+\rapport\*
+
+\dataset\xgboost.model
+
 hyper parameters vm - Google Search_files/
 
 hyper parameters vm - Google Search\.html
@@ -22,3 +26,5 @@ Presentation TX-P18\.gslides
 perla/__pycache__/
 
 perla/.Rhistory
+
+rapport/
